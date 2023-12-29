@@ -1,7 +1,7 @@
 Repositorio desitnado a armezenar meus arquivos de exercicios de linguagem C.
 
 Introdução a linguagem C.<br>
-<img src="https://img.shields.io/static/v1?label=Overview&message=Moura-S&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+  ![GitHub](https://img.shields.io/badge/GitHub-0D1282?style=for-the-badge&logo=github&logoColor=white)![Gkk](https://img.shields.io/badge/MOURA-B31312?style=for-the-badge&logo=&logoColor=white)
 
 
 <hr>
