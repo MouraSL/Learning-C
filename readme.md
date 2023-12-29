@@ -5,3 +5,4 @@ Introdução a linguagem C.<br>
 <img src="https://img.shields.io/badge/GIT-1000?style=for-the-badge&logo=github&logoColor=white">
 
 <hr>
+<img src="https://img.shields.io/badge/GIT-1000?label=GIT&message=Moura-S&color=B80000&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
